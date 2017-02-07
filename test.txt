@@ -7,3 +7,5 @@ ver 0.2
 ver 0.3
 
 added in branch: test1
+added1 in branch: test1
+added2 in branch: test1
