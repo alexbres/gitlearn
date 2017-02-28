@@ -12,3 +12,4 @@ added2 in branch: test1
 
 added to serverfix from origin place
 added to serverfix from new place
+added  2 to serverfix from origin place
