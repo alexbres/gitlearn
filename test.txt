@@ -16,6 +16,6 @@ master1
 master2
 master3
 
-function forms1 {
-  console.log('forms1');
+function forms2 {
+  console.log('forms2');
 }
