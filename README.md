@@ -8,4 +8,3 @@ line5 (added in master)
 master4
 master5
 master6
-master7
