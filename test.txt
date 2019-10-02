@@ -47,3 +47,6 @@ function forms2 {
 function forms3 {
   console.log('forms3');
 }
+function forms3 {
+  console.log('forms3');
+}
