@@ -43,3 +43,7 @@ m3
 function forms2 {
   console.log('forms2');
 }
+
+function forms3 {
+  console.log('forms3');
+}
