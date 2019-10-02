@@ -39,3 +39,7 @@ function forms13 {
 m1
 m2
 m3
+
+function forms1 {
+  console.log('forms1');
+}
