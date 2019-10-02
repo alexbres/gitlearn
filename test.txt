@@ -40,6 +40,6 @@ m1
 m2
 m3
 
-function forms1 {
-  console.log('forms1');
+function forms2 {
+  console.log('forms2');
 }
